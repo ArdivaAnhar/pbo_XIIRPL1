@@ -4,6 +4,9 @@ class perhitungan{
 
     var $sisi;
     var $panjang;
+    var $lebar;
+    var $alas;
+    var $tinggi;
 
     function LuasPersegi($sisi){
         $hasil = $sisi * $sisi;
